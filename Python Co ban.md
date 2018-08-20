@@ -1,0 +1,1 @@
+> Một số bài tập cơ bản về python tại [đây](https://github.com/duccuongdc97/thutapmeditech/tree/master/BaiTapPython)
