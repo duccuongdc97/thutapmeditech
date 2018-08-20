@@ -30,6 +30,7 @@
 4. Images
 > Cú pháp của ảnh cũng giống link. Sự khác nhau giữa cú pháp giữa ảnh và link là có dấu (!) mở đầu.  
 > Cú pháp của ảnh như sau: ! [Benjamin Bannekat] (https://octodex.github.com/images/bannekat.png)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 5. Blockquotes
 > Blockquote là một câu hoặc đoạn được định dạng đặc biệt để thu hút sự chú ý đến người đọc.
 > Để tạo block quote, bạn cần bắt đầu bằng dấu (>).  
